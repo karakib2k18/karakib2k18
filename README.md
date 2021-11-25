@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kazi Abdur Rakib</h1>
-<h3 align="center">Front-End Engineer || MERN Stack Web Developer</h3>
+<h3 align="center">Front-End Engineer || FULL STACK WEB DEVELOPER (MERN) </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karakib2k18&label=Profile%20views&color=0e75b6&style=flat" alt="karakib2k18" /> </p>
 <div align="center">
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
